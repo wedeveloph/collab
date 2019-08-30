@@ -8,7 +8,7 @@ Operating as a virtual incubator, Collab has a ten-week program featuring mentor
 
 | Week                                                                                | Description     |
 |-------------------------------------------------------------------------------------|-----------------|
-| Week 1 Validation and Research                                                      | 1:00PM - 1:25PM |
+| Week 1\\ Validation and Research                                                      | 1:00PM - 1:25PM |
 | Week 2 Introduction to Product and Project Management                               |                 |
 | Week 3 Marketing: Building an identity and presence + inclusivity and accessibility |                 |
 | Week 4 Iterating, iterating, and iterating                                          |                 |
