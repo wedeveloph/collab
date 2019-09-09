@@ -4,6 +4,8 @@ Operating as a virtual incubator, Collab has a ten-week program featuring mentor
 
 ## Expectations of the Incubator
 
+*   
+
 ## Program
 
 | Week                                                                                | Description     |
